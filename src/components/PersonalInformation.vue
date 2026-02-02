@@ -12,7 +12,6 @@ import { UserFilled } from '@element-plus/icons-vue'
 <style scoped>
 .user {
   display: flex;
-  width: 150px;
   margin-top: 12px;
   margin-left: 7px;
   margin-bottom: 12px;
